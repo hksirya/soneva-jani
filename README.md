@@ -7,6 +7,9 @@ Came across Soneva Jani's offical website and realised it can be made better . I
 # About Soneva Jani  
 A home page website which provides details of the application to the end user like the description of the Soneva Jani hotel , the website discusses the Main objective ,services ,gallery and Pricing .A section that lets the Customer choose Date of Entry - Exit and  Number of Adults / children . A section that talks about the Pricing and blog. A Footer section , which shows the location , links , partners and other informations. 
 
+# Live link
+Website link: https://hksirya.github.io/soneva-jani/
+
 # Tools Used 
 The main framework used in building the Soneva Jani website is Bootstrap and its components like Carousel, Card, Buttons, Navbar, Grid etc. It also used HTML5, CSS3, Javascript and Google Fonts and Font Awesome.
 
